@@ -1,4 +1,4 @@
-; $Id$
+; $Id: oauthconnector.info,v 1.1 2010/08/21 21:16:50 voxpelli Exp $
 name = OAuth Connector
 description = OAuth support for the Connector module
 core = 6.x

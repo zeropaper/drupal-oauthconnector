@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: oauthconnector.admin.inc,v 1.1 2010/08/21 21:16:50 voxpelli Exp $
 
 /**
  * @file
